@@ -12,7 +12,6 @@ if (process.env.JAWSDB_URL) {
     database: "burgers_db",
   });
 }
-l;
 
 // Make connection.
 connection.connect(function (err) {
